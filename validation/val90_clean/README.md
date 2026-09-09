@@ -1,2 +1,2 @@
-Clean validation image
-- UIEB 90 clean
+Clean validation image 
+- UIEB reference image 90
