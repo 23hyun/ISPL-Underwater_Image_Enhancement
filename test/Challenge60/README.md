@@ -1,2 +1,2 @@
-test image 60
+Underwater test image
 - Challenge 60
